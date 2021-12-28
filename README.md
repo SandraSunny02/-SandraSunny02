@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Sandra </h1>
-<h3>The (front-end) developer you've been searching for :) /h3>
+<h3>The (front-end) developer you've been searching for :) </h3>
 
 - 🔭 I’m currently working on a NFTs market website with my current employer
 
