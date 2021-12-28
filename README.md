@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://](https://)
 
-- 💬 Ask me about **Android, Flutter**
-
 - 📫 How to reach me **sandrakhaifa02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
