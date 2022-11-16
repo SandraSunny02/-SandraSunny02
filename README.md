@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a NFTs market website with my current employer
 
-- 👨‍💻 All of my projects are available on my [Portfolio](https://sandrasunny02.github.io/)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://sandrakhalifa.vercel.app/)
 
 - 📫 How to reach me [send an email](mailto:sandrakhaifa02@gmail.com)
 <h3 align="left">Connect with me:</h3>
