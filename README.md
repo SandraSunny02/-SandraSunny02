@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Sandra </h1>
 <h3>The (front-end) developer you've been searching for :) </h3>
 
-- 🔭 I’m currently working on a NFTs market website with my current employer
+- 🔭 I’m currently working on different project with my current employer (digital agency)
 
 - 👨‍💻 All of my projects are available on my [Portfolio](https://sandrakhalifa.vercel.app/)
 
